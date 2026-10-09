@@ -24,13 +24,13 @@ PennyFlow is a personal expense tracker designed to help users manage their expe
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/prashantsingh-9079/Penny-flow-.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd PennyFlow
+cd Penny-flow-
 ```
 
 ### 3. Install dependencies
